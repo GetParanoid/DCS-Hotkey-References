@@ -13,10 +13,10 @@
 ##### Coolie Switch
 | Name      | Key |
 | ----------- | ----------- |
-| Coolie Switch Down | sftd Thumb Hat Aft   |
-| Coolie Switch Left | sftd Thumb Hat Left  |
-| Coolie Switch Right | sftd Thumb Hat Right|
-| Coolie Switch Up | sftd Thumb Hat Fwd |
+| Coolie Switch Down | sftd Lower Thumb Hat Aft   |
+| Coolie Switch Left | sftd Lower Thumb Hat Left  |
+| Coolie Switch Right | sftd Lower Thumb Hat Right|
+| Coolie Switch Up | sftd Lower Thumb Hat Fwd |
 
 | Action | Description |
 | ----------- | ----------- |
